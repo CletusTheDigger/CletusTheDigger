@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&labelColor=black)&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20"/>
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 
 #### ⚙️ Tools & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
