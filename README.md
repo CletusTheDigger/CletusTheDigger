@@ -24,9 +24,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTguNjIgMi4xOUExLjQzIDEuNDMgMCAwIDAgNy4zOSAyTDIuNTYgNC43NUMxLjU2IDUuMzMgMSAxNS4wOCAxLjUgMTYuODhjLjE0LjUgMi45MyAyLjMgNi4xMiAzLjc0YTEuODUgMS44NSAwIDAgMCAxLjUxIDBjMy4xOS0xLjQ0IDUuOTgtMy4yNSA2LjEyLTMuNzQuNS0xLjggMC0xMS41NS0xLTUuNjNM
-MTYuNjEgMmExLjQzIDEuNDMgMCAwIDAtMS4yMy4xOUw4LjYyIDIuMTlaTTEyIDEyLjZjLS4zMS43NC0uOTUgMS4zMi0xLjcxIDEuNjUtLjc2LjMzLTEuNjIuMzItMi4zNi0uMDFjLS43NC0uMzMtMS4zLS45MS0xLjYxLTEuNjVjLS4zMS0uNzQtLjMxLTEuNTggMC0yLjMyYy4zMS0uNzQuOTctMS4zMiAxLjYxLTEuNjVjLjc0LS4zMyAxLjYtLjMzIDIuMzYgMCAuNzYuMzMgMS40LjkxIDEuNzEgMS42NWMuMzEuNzQuMzEgMS41OCAwIDIuMzJaTTE1LjI3IDExLjUyTDE0LjcyIDEwLjA3aDEuNjJ2LS45M2gtMS45N2wtLjUzLTEuNDZoLS45M2wtLjU0IDEuNDZoLTEuOTd2OS45NGgyLjI1di0xLjI3aC44NWwuNTIgMS4yN2gyLjI1VjExLjVoLTEuOTdsLS41NC0xLjMzWm0tMS4xIDIuN2gtMS4yNXYtMi42N2gxLjI1djIuNjdaTTE2LjQ0IDExLjUyaDEuMjV2Mi42N2gtMS4yNXYtMi42N1oiLz48L3N2Zz4=)
-&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=csharp&logoColor=white&v=2)
 
 #### ⚙️ Tools & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
