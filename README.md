@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Berfin 👋! </h1>
+<h1 align="center"> Hi, I'm CletusTheDigger 👋! </h1>
 <p align="center">
   <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
   🎓 Computer Education & Instructional Technologies graduate from <b>METU</b> (GPA: 3.56)
