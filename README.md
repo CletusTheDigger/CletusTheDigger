@@ -1,7 +1,6 @@
 <h1 align="center"> Merhaba, ben CletusTheDigger 👋! </h1>
 <p align="center">
-  <i>Minecraft geliştiricisi, oyun modlama meraklısı ve yazılım dünyasında sürekli öğrenmeye tutkulu bir yazılımcıyım.</i><br/>
-  🎓 <b>ODTÜ</b> Bilgisayar ve Öğretim Teknolojileri Eğitimi mezunuyum (GANO: 3.56)
+  <i>Minecraft geliştiricisi, oyun modlama meraklısı ve yazılım dünyasında sürekli öğrenmeye tutkulu bir yazılımcıyım.</i>
 </p>
 
 ---
