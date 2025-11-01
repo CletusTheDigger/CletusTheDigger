@@ -49,7 +49,7 @@
 ### 📫 İletişim
 
 - 📩 E-posta: [berfins.4615@gmail.com](mailto:berfins.4615@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/berfin-s%C3%BCnnetcio%C4%9Flu-4ab9681b3/)  
+- 💼 [Discord](https://discord.com/users/889104526899036170)  
 
 ---
 
