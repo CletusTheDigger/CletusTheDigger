@@ -47,8 +47,7 @@
 ---
 
 ### 📫 İletişim
-
-- 📩 E-posta: [berfins.4615@gmail.com](mailto:berfins.4615@gmail.com)  
+ 
 - 💼 Discord: [cletusthedigger](https://discord.com/users/889104526899036170)  
 
 ---
