@@ -53,25 +53,4 @@
 
 ---
 
-### 🏆 GitHub Başarıları
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Berfin4615&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berfin4615&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berfin4615&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-### 📊 LeetCode İstatistikleri
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/user4150sX?theme=dark&font=Ubuntu&ext=heatmap)
-
----
-
 <p align="center">🚀 Kod yazmak bir oyun gibi — her zaman yeni bir seviye keşfet!</p>
