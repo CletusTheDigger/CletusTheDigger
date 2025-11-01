@@ -1,6 +1,6 @@
 <h1 align="center"> Merhaba, ben CletusTheDigger 👋! </h1>
 <p align="center">
-  <i>Robotik, yapay zekâ ve öğretim teknolojileri alanlarında tutkulu bir geliştiriciyim.</i><br/>
+  <i>Minecraft geliştiricisi, oyun modlama meraklısı ve yazılım dünyasında sürekli öğrenmeye tutkulu bir yazılımcıyım.</i><br/>
   🎓 <b>ODTÜ</b> Bilgisayar ve Öğretim Teknolojileri Eğitimi mezunuyum (GANO: 3.56)
 </p>
 
@@ -8,31 +8,41 @@
 
 ### 💻 Hakkımda
 
-- 🎓 ODTÜ’den 3.56 GANO ile onur derecesiyle mezun oldum  
-- 🤖 **ITURO 2023** Robotik Yarışması - Trafik Takip Robotu kategorisinde birincilik  
-- 💡 Aselsan ve Huawei’de Ar-Ge projelerinde deneyim  
-- 🌍 Microsoft Women in AI, IBM AI for Everyone gibi uluslararası hackathon ve eğitimlerde katılımcı  
-- 🔬 Şu anda robotikte ROS, simülasyon ve pekiştirmeli öğrenme üzerine çalışıyorum  
+- 🧱 Minecraft eklentileri, modları ve oyun içi sistemler geliştirme üzerine çalışıyorum  
+- ⚙️ Sunucu tarafı geliştirme (Spigot, Paper, Bukkit API) ve oyun mekanikleri tasarımı konusunda deneyimliyim  
+- 💡 Oyuncu deneyimini artırmaya yönelik özel komutlar, mini oyunlar ve ekonomi sistemleri tasarlıyorum  
+- 🌍 Açık kaynak projelere katkıda bulunmayı ve toplulukla bilgi paylaşmayı seviyorum  
+- 🔥 Şu anda Java ve Python kullanarak oyun içi yapay zekâ sistemleri üzerine yeni projeler geliştiriyorum  
+- 🎮 Minecraft dışında da backend ve bot geliştirme (Discord botları vb.) üzerine çalışıyorum  
 
 ---
+
+### ⚙️ Teknoloji Yığını
 
 #### 💻 Programlama Dilleri
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=csharp&logoColor=white&v=2)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+#### 🧰 Araçlar ve Teknolojiler
+![Spigot API](https://img.shields.io/badge/Spigot%20API-ED8106?style=flat&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-000000?style=flat&logo=minecraft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 🏆 Ödüller ve Projeler
+### 🏆 Projeler ve Deneyimler
 
-- 🥇 **ITURO 2023** – Trafik Robotu Kategorisi Birinciliği  
-- 🥇 **BRO-CUP / KELEBEKRO** – Sumo ve labirent çözme kategorilerinde birincilikler  
-- 🌐 **Microsoft Women in AI Hackathon (2024)** – Azure tabanlı yapay zekâ destekli seyahat planlayıcı  
-- 📰 **Anadolu Ajansı Hackathon (2024)** – Yapay zekâ destekli haber üretim platformu  
-- 📱 **Huawei Ar-Ge Kodlama Maratonu (2023)** – Fotoğrafa göre “Kendin Yap” videoları öneren mobil uygulama  
-- 🔍 **Akbank AI Academy** – Yapay zekâ ve Azure kullanarak kuraklık tahmini projesi  
+- 🧩 **Minecraft Plugin Geliştiricisi** – Sunucular için özel komut sistemleri, ekonomi ve oyun mekaniği eklentileri  
+- ⚔️ **Mini Oyun Tasarımı** – PvP, parkur ve görev tabanlı oyun modları geliştirme  
+- 🤖 **Discord Bot Geliştirme** – Topluluk yönetimi ve oyun entegrasyonu için bot sistemleri  
+- 💡 **Oyun İçin Yapay Zekâ Denemeleri** – Java ve Python ile NPC davranış modelleme  
+- 🧠 **Backend & Veritabanı Entegrasyonu** – MySQL ve SQLite kullanarak oyuncu verisi yönetimi  
 
 ---
 
@@ -64,4 +74,4 @@
 
 ---
 
-<p align="center">🚀 Her zaman üretiyor, her zaman öğreniyorum!</p>
+<p align="center">🚀 Kod yazmak bir oyun gibi — her zaman yeni bir seviye keşfet!</p>
